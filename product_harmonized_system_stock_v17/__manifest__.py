@@ -11,7 +11,7 @@
     "author": "Akretion, Odoo Community Association (OCA)",
     "maintainers": ["alexis-via", "luc-demeyer"],
     "website": "https://github.com/OCA/intrastat-extrastat",
-    "depends": ["product_harmonized_system", "stock"],
+    "depends": ["product_harmonized_system_v17", "stock"],
     "data": ["views/hs_code_menu.xml"],
     "installable": True,
     "auto_install": True,
