@@ -51,37 +51,10 @@ Credits
 Authors
 ~~~~~~~
 
-* Akretion
+* Kuldeep Namdev
 
-Contributors
-~~~~~~~~~~~~
-
-* Alexis de Lattre <alexis.delattre@akretion.com>
 
 Maintainers
 ~~~~~~~~~~~
 
-This module is maintained by the OCA.
-
-.. image:: https://odoo-community.org/logo.png
-   :alt: Odoo Community Association
-   :target: https://odoo-community.org
-
-OCA, or the Odoo Community Association, is a nonprofit organization whose
-mission is to support the collaborative development of Odoo features and
-promote its widespread use.
-
-.. |maintainer-alexis-via| image:: https://github.com/alexis-via.png?size=40px
-    :target: https://github.com/alexis-via
-    :alt: alexis-via
-.. |maintainer-luc-demeyer| image:: https://github.com/luc-demeyer.png?size=40px
-    :target: https://github.com/luc-demeyer
-    :alt: luc-demeyer
-
-Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
-
-|maintainer-alexis-via| |maintainer-luc-demeyer| 
-
-This module is part of the `OCA/intrastat-extrastat <https://github.com/OCA/intrastat-extrastat/tree/16.0/product_harmonized_system_stock>`_ project on GitHub.
-
-You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
+This module is maintained by the UNIWEDS SERVICES (OPC) PRIVATE LIMITED

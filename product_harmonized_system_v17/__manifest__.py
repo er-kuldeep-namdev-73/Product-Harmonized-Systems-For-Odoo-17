@@ -1,12 +1,4 @@
-# Copyright 2018-2022 brain-tec AG (http://www.braintec-group.com)
-# Copyright 2011-2022 Akretion (http://www.akretion.com)
-# Copyright 2009-2022 Noviat (http://www.noviat.com)
-# Copyright 2022 Tecnativa - Víctor Martínez
-# @author Benjamin Henquet <info@noviat.com>
-# @author Kumar Aberer <kumar.aberer@braintec-group.com>
-# @author Alexis de Lattre <alexis.delattre@akretion.com>
-# @author Luc de Meyer <info@noviat.com>
-# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
+# @author Kuldeep Namdev
 
 {
     "name": "Product Harmonized System Codes",
@@ -15,8 +7,7 @@
     "license": "AGPL-3",
     "summary": "Base module for Product Import/Export reports",
     "author": "UNIWEDS SERVICES (OPC) PRIVATE LIMITED",
-    "maintainers": ["alexis-via", "luc-demeyer"],
-    # "website": "https://github.com/OCA/intrastat-extrastat",
+    "maintainers": ["Kuldeep Namdev"],
     "depends": ["product"],
     "excludes": ["account_intrastat"],
     "data": [
