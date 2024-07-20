@@ -14,9 +14,9 @@
     "category": "Reporting",
     "license": "AGPL-3",
     "summary": "Base module for Product Import/Export reports",
-    "author": "Unicode Systems Pvt. Ltd.",
+    "author": "UNIWEDS SERVICES (OPC) PRIVATE LIMITED",
     "maintainers": ["alexis-via", "luc-demeyer"],
-    "website": "https://github.com/OCA/intrastat-extrastat",
+    # "website": "https://github.com/OCA/intrastat-extrastat",
     "depends": ["product"],
     "excludes": ["account_intrastat"],
     "data": [
